@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nimitha J.
-- 👀 I’m interested in solving problems, learning new technoogies and new teckstacks.
+- 👀 I’m interested in solving problems, learning different technoogies and teckstacks.
 - 🌱 I’m currently learning best coding practices :)
 - 📫 How to reach me: 
    - Linkedin: https://www.linkedin.com/in/nimitha-jagadeesha/
