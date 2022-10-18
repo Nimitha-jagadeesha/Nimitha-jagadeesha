@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nimitha-jagadeesha.
+- 👋 Hi, I’m Nimitha J.
 - 👀 I’m interested in solving problems, learning new technoogies and new teckstacks.
 - 🌱 I’m currently learning best coding practices :)
 - 📫 How to reach me: 
