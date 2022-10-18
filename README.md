@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Nimitha-jagadeesha.
 - 👀 I’m interested in solving problems, learning new technoogies and new teckstacks.
 - 🌱 I’m currently learning best coding practices :)
-- 📫 How to reach me: https://www.linkedin.com/in/nimitha-jagadeesha/
+- 📫 How to reach me: 
+   - Linkedin: https://www.linkedin.com/in/nimitha-jagadeesha/
+   - EmailId: nimitha1jagadeesha@gmail.com
