@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nimitha J.
 - 👀 I’m interested in solving problems, learning different technoogies and teckstacks.
-- 🌱 I’m currently learning best coding practices :)
+- 🌱 I’m currently learning best coding practices and System design:)
 - 📫 How to reach me: 
    - Linkedin: https://www.linkedin.com/in/nimitha-jagadeesha/
    - Email-Id: nimitha1jagadeesha@gmail.com
