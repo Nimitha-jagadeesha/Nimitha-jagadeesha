@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning best coding practices and System design:)
 - 📫 How to reach me: 
    - Linkedin: https://www.linkedin.com/in/nimitha-jagadeesha/
-   - Email-Id: nimitha1jagadeesha@gmail.com
+   - Email-Id: nimitha1jagadeesha@gmail.com / nimithajemail@gmail.com
