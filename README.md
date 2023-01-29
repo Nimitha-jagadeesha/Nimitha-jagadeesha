@@ -10,7 +10,7 @@
   - [Impetus 21.0](https://github.com/Nimitha-jagadeesha/Impetus) <span>(MongoDB, nodejs, HTML, CSS, JavaScript)<span>
   - Agriculturify:
     - [Frontend](https://github.com/Nimitha-jagadeesha/Agricutureify) <span>(React, HTML, CSS, Javascript)
-    - Backend API: https://agro.glitch.me Endpints: {/get, /users etc} <span>(nodejs, express, MongDB)
+    - [Backend]:(https://github.com/Nimitha-jagadeesha/AGRO-Backend-API) <span>(nodejs, express, MongDB)
    
 - <b>Mobile Application Development</b>
   - [Covid Care](https://github.com/Nimitha-jagadeesha/Covid-care)<span>(Java, XML, Firebase)</span>
