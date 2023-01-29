@@ -21,4 +21,4 @@
    
 [linkedin]: https://www.linkedin.com/in/nimitha-jagadeesha/
 [twitter]: https://twitter.com/Nimitha__J
-[gmail]: nimithajemail@gmail.com
+[gmail]: emailto:nimithajemail@gmail.com
