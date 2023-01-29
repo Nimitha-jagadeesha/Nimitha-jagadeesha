@@ -19,6 +19,6 @@
 [<img align="left" alt="Nimitha__J | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nimithaJagadeesha | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
    
-[linkedin]:(https://www.linkedin.com/in/nimitha-jagadeesha/)
-[twitter]: (https://twitter.com/Nimitha__J)
-[gmail]: (nimithajemail@gmail.com)
+[linkedin]: https://www.linkedin.com/in/nimitha-jagadeesha/
+[twitter]: https://twitter.com/Nimitha__J
+[gmail]: nimithajemail@gmail.com
