@@ -8,7 +8,9 @@
 - <b>Full Stack Web App </b>
   - [EPSILON](https://github.com/Nimitha-jagadeesha/Epsilon-21.0) <span>(Django, Postgress SQL, HTML, CSS, Bootstrap, JS)<span>
   - [Impetus 21.0](https://github.com/Nimitha-jagadeesha/Impetus) <span>(MongoDB, nodejs, HTML, CSS, JavaScript)<span>
-  - [Agriculturify](https://github.com/Nimitha-jagadeesha/Agricutureify) <span>(React, HTML, CSS, Javascript, MongDB)
+  - Agriculturify:
+    - [Frontend](https://github.com/Nimitha-jagadeesha/Agricutureify) <span>(React, HTML, CSS, Javascript)
+    - Backend API: https://agro.glitch.me Endpints: {/get, /users etc} <span>(nodejs, express, MongDB)
    
 - <b>Mobile Application Development</b>
   - [Covid Care](https://github.com/Nimitha-jagadeesha/Covid-care)<span>(Java, XML, Firebase)</span>
