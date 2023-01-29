@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Nimitha J.
+- 👋 Hi, I’m Nimitha J, a passinate Software developer.
 - 👀 I’m interested in solving problems, learning different technoogies and teckstacks.
-- 🌱 I’m currently learning best coding practices and System design:)
-
+- 🌱 I’m currently learning best coding practices and System design :)
+- ✨ I am always exited by the fact that Software developers can develop anything that they think.
+- ☕ I enjoy coding while sipping on a cup of chai.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
