@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems, learning different technoogies and teckstacks.
 - 🌱 I’m currently learning best coding practices and System design :)
 - ✨ I am continually inspired by the limitless potential of software development to bring ideas to life.
-- ☕ I enjoy coding while sipping on a cup of chai.
+- ☕ I enjoy coding while sipping on a cup of tea.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
