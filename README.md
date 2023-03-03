@@ -8,7 +8,7 @@
 
 - <b>Full Stack Web App </b>
   - [EPSILON](https://github.com/Nimitha-jagadeesha/Epsilon-21.0) <span>(Django, Postgress SQL, HTML, CSS, Bootstrap, JS)<span>
-  - [Impetus 21.0](https://github.com/Nimitha-jagadeesha/Impetus) <span>(MongoDB, nodejs, HTML, CSS, JavaScript)<span>
+  - [Impetus 21.0](https://github.com/Nimitha-jagadeesha/Impetus) <span>(MongoDB, nodejs, HTML, CSS, JavaScript)<span> Link to website: https://impetus-flax.vercel.app/
   - Agriculturify:
     - [Frontend](https://github.com/Nimitha-jagadeesha/Agricutureify) <span>(React, HTML, CSS, Javascript)
     - [Backend](https://github.com/Nimitha-jagadeesha/AGRO-Backend-API) <span>(nodejs, express, MongDB)
