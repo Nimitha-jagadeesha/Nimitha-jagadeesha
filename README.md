@@ -17,11 +17,12 @@
   - [Covid Care](https://github.com/Nimitha-jagadeesha/Covid-care)<span>(Java, XML, Firebase)</span>
 
   
-<h2> CERTIFICATIONS </h2>
-[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f04a3e6f-b447-4d1f-9ebd-cc3557c22667/linked_in_profile) Issued by Amazon Web Services Training and Certification on September 22, 2023
-[Front-End Web Development with React] (https://www.coursera.org/account/accomplishments/verify/DBQ92D39TUWF) Issued by The Hong Kong University of Science and Technology on July 3, 2020
-[Multiplatform Mobile App Development with React Native](https://www.coursera.org/account/accomplishments/verify/DC6VCDSD6C5R) Issued by The Hong Kong University of Science and Technology on July 9, 2020
-[Android Application Development](https://www.udemy.com/certificate/UC-ede799b1-df0a-4f47-91d9-6278b98b78a5/)  issued by  ProgramMe Programming on May 2, 2020
+- <h2> CERTIFICATIONS </h2>
+
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f04a3e6f-b447-4d1f-9ebd-cc3557c22667)Issued by Amazon Web Services Training and Certification on September 22, 2023  
+  - [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/verify/DBQ92D39TUWF) Issued by The Hong Kong University of Science and Technology on July 3, 2020
+  - [Multiplatform Mobile App Development with React Native](https://www.coursera.org/account/accomplishments/verify/DC6VCDSD6C5R) Issued by The Hong Kong University of Science and Technology on July 9, 2020
+  - [Android Application Development](https://www.udemy.com/certificate/UC-ede799b1-df0a-4f47-91d9-6278b98b78a5)  issued by  ProgramMe Programming on May 2, 2020
 
   
 
