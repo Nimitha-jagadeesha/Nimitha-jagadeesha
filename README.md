@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning best coding practices and System design :)
 - ✨ I am continually inspired by the limitless potential of software development to bring ideas to life.
 - ☕ I enjoy coding while sipping on a cup of tea.
+-  ![](https://komarev.com/ghpvc/?username=Nimitha-jagadeesha&color=green&style=for-the-badge)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
