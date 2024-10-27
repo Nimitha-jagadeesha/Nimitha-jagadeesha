@@ -8,7 +8,7 @@
 
 - GitHub Stats:
 
-[![Nimitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimitha-jagadeesha&bg_color=181c1c&color=F5DEB3&line=ff0065&point=00f800&area=true)](https://github.com/bilalqv)
+[![Nimitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimitha-jagadeesha&bg_color=181c1c&color=F5DEB3&line=ff0065&point=00f800&area=true)](https://github.com/Nimitha-jagadeesha)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
