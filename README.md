@@ -23,6 +23,13 @@
 - <b>Mobile Application Development</b>
   - [Covid Care](https://github.com/Nimitha-jagadeesha/Covid-care)<span>(Java, XML, Firebase)</span>
 
+
+- <h2>Hobbies</h2>
+- Reading books, technical blogs, algorithm books.
+- Competitive programming.
+- Solving puzzlesn math riddles.
+- Automating manual tasks Few python script links: [Repo](https://github.com/Nimitha-jagadeesha/Automation-Scripts).
+
   
 - <h2> CERTIFICATIONS </h2>
 
