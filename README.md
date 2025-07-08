@@ -9,6 +9,12 @@
 - GitHub Stats:
 
 [![Nimitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimitha-jagadeesha&bg_color=181c1c&color=FFFFFF&line=F0282D&point=FFFFFF&area=true)](https://github.com/Nimitha-jagadeesha)
+<p align="center">
+<a href="https://github.com/Nimitha-jagadeesha">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nimitha-jagadeesha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nimitha-jagadeesha&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
